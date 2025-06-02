@@ -1,3 +1,5 @@
+# Name :Deepshika hemanth kumar
+# register number:212224220020
 # 4-BIT-RIPPLE-COUNTER
 
 **AIM:**
@@ -40,3 +42,4 @@ In timing diagram Q0 is changing as soon as the negative edge of clock pulse is 
 ![393585804-6b6c83f4-cddf-4d18-97a1-45bb6e2d3a35](https://github.com/user-attachments/assets/2d5fead8-6706-468c-b475-f38ab106b01b)
 
 **RESULTS**
+Thus implementing 4 Bit Ripple Counter using Verilog and validating their functionality using their functional tables is done successfully.
